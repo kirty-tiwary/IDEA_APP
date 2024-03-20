@@ -1,0 +1,14 @@
+{
+  "name": "idea_app",
+  "version": "1.0.0",
+  "description": "This is our Idea Application to learn Node.Js!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kirty",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.3"
+  }
+}
